@@ -1,0 +1,35 @@
+.navbar {
+    margin: 15px 0 0;
+}
+a {
+    color: rgb(242, 247, 241);
+    text-decoration: none;
+}
+ul {
+    margin-left: 230px;
+    padding-left:20px;
+}
+
+button{
+ background-color: rgb(226, 109, 63);
+ border-style: solid;
+ border-color: rgb(235, 141, 79);
+ border-radius: 5px;
+ padding: 5px;
+ margin: 2px;
+ font-size: 1.2em;
+
+}
+section{
+    float: right;
+    margin-right: 80px;
+    border-color: rgb(102, 47, 2);
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: dashed;
+}
+
+.today {
+    padding:10px;
+    color: rgb(73, 30, 2)
+}

@@ -1,0 +1,108 @@
+body {
+    background-image: url('/images/firebirdmain.jpg');
+    background-size: cover;
+}
+
+.container {
+    font-weight: 400;
+    margin: 90px auto;
+    text-align: center;
+    width: 80%;
+    color: rgb(73, 30, 2)
+   
+}
+h1 {
+    font-size: 3.35em;
+}
+
+
+p {
+    font-size: 1.33em;
+}
+
+form {
+    margin: 30px auto;
+    width: 50%;
+}
+
+label {
+    font-size: 1.4em;
+    margin: 10px auto;
+}
+
+input{
+    font-size: 1.3em;
+    margin: 5px auto;
+    opacity: 0.7;
+    outline: none;
+    width: 200px;
+}
+
+button.addbox {
+    color: white;
+}
+
+.jumbotron {
+    background-color: rgb(188, 222, 193);
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.desc {
+    width: 65%;
+    margin: auto;
+}
+
+.info {
+    width: 65%;
+    margin: 90px auto;
+    padding: 10px;
+    text-align: left;
+    background-color: rgb(220, 240, 233);
+    opacity: 0.7;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#villages {
+    text-align: left;
+    font-weight: bold;
+    color: rgb(44, 18, 1);
+    background-color: rgb(255, 253, 239);
+    opacity: 0.7;
+    border-radius: 10px; 
+    margin: 40px 50 0 50;
+}
+.shownote {
+    background-color: rgb(232, 245, 218);
+    opacity: 0.8;
+    width: 50%;
+    margin: 30px auto;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+}
+.shownote h3 {
+    font-style: oblique;
+}
+
+.noteform {
+    margin:20px auto;
+    font-weight: bold;
+    color: rgb(73, 30, 2);
+}
+
+textarea {
+    height: 100px;
+    width: 250px;
+    margin-top: 10px;
+    opacity: 0.7;
+    outline: none;
+}
+
+.boxitems  h1{
+    text-align: center;
+    margin-top: 5px;
+}
